@@ -1,0 +1,8 @@
+.demoInput {
+    width: 700px;
+    height: 300px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 0 10px;
+    box-sizing: border-box;
+}
